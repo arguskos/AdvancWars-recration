@@ -1,0 +1,5 @@
+﻿interface IHighlightable
+{
+    void Highlight();
+
+}

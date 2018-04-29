@@ -1,0 +1,1585 @@
+fileFormatVersion: 2
+guid: 3018006c3d2cf964e9b4ffe543f08a41
+timeCreated: 1521857753
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: InfantryIdle1
+    21300002: InfantryIdle2
+    21300004: InfantryIdle3
+    21300006: InfantryIdle4
+    21300008: Unit_Infantry_Red_4
+    21300010: Unit_Infantry_Red_5
+    21300012: Unit_Infantry_Red_6
+    21300014: Unit_Infantry_Red_7
+    21300016: Unit_Infantry_Red_8
+    21300018: Unit_Infantry_Red_9
+    21300020: Unit_Infantry_Red_10
+    21300022: Unit_Infantry_Red_11
+    21300024: Unit_Infantry_Red_12
+    21300026: Unit_Infantry_Red_13
+    21300028: Unit_Infantry_Red_14
+    21300030: Unit_Infantry_Red_15
+    21300032: Unit_Infantry_Red_16
+    21300034: Unit_Infantry_Red_17
+    21300036: Unit_Infantry_Red_18
+    21300038: Unit_Infantry_Red_19
+    21300040: Unit_Infantry_Red_20
+    21300042: Unit_Infantry_Red_21
+    21300044: Unit_Infantry_Red_22
+    21300046: Unit_Infantry_Red_23
+    21300048: Unit_Infantry_Red_24
+    21300050: Unit_Infantry_Red_25
+    21300052: Unit_Infantry_Red_26
+    21300054: Unit_Infantry_Red_27
+    21300056: Unit_Infantry_Red_28
+    21300058: Unit_Infantry_Red_29
+    21300060: Unit_Infantry_Red_30
+    21300062: Unit_Infantry_Red_31
+    21300064: Unit_Infantry_Red_32
+    21300066: Unit_Infantry_Red_33
+    21300068: Unit_Infantry_Red_34
+    21300070: Unit_Infantry_Red_35
+    21300072: Unit_Infantry_Red_36
+    21300074: Unit_Infantry_Red_37
+    21300076: Unit_Infantry_Red_38
+    21300078: Unit_Infantry_Red_39
+    21300080: Unit_Infantry_Red_40
+    21300082: Unit_Infantry_Red_41
+    21300084: Unit_Infantry_Red_42
+    21300086: Unit_Infantry_Red_43
+    21300088: Unit_Infantry_Red_44
+    21300090: Unit_Infantry_Red_45
+    21300092: Unit_Infantry_Red_46
+    21300094: Unit_Infantry_Red_47
+    21300096: Unit_Infantry_Red_48
+    21300098: Unit_Infantry_Red_49
+    21300100: Unit_Infantry_Red_50
+    21300102: Unit_Infantry_Red_51
+    21300104: Unit_Infantry_Red_52
+    21300106: Unit_Infantry_Red_53
+    21300108: Unit_Infantry_Red_54
+    21300110: Unit_Infantry_Red_55
+    21300112: Unit_Infantry_Red_56
+    21300114: Unit_Infantry_Red_57
+    21300116: Unit_Infantry_Red_58
+    21300118: Unit_Infantry_Red_59
+    21300120: Unit_Infantry_Red_60
+    21300122: Unit_Infantry_Red_61
+    21300124: Unit_Infantry_Red_62
+    21300126: Unit_Infantry_Red_63
+    21300128: Unit_Infantry_Red_64
+    21300130: Unit_Infantry_Red_65
+    21300132: Unit_Infantry_Red_66
+    21300134: Unit_Infantry_Red_67
+    21300136: Unit_Infantry_Red_68
+    21300138: Unit_Infantry_Red_69
+    21300140: Unit_Infantry_Red_70
+    21300142: Unit_Infantry_Red_71
+    21300144: Unit_Infantry_Red_72
+    21300146: Unit_Infantry_Red_73
+    21300148: Unit_Infantry_Red_74
+    21300150: Unit_Infantry_Red_75
+    21300152: Unit_Infantry_Red_76
+    21300154: Unit_Infantry_Red_77
+    21300156: Unit_Infantry_Red_78
+    21300158: Unit_Infantry_Red_79
+    21300160: Unit_Infantry_Red_80
+    21300162: Unit_Infantry_Red_81
+    21300164: Unit_Infantry_Red_82
+    21300166: Unit_Infantry_Red_83
+    21300168: Unit_Infantry_Red_84
+    21300170: Unit_Infantry_Red_85
+    21300172: Unit_Infantry_Red_86
+    21300174: Unit_Infantry_Red_87
+    21300176: Unit_Infantry_Red_88
+    21300178: Unit_Infantry_Red_89
+    21300180: Unit_Infantry_Red_90
+    21300182: Unit_Infantry_Red_91
+    21300184: Unit_Infantry_Red_92
+    21300186: Unit_Infantry_Red_93
+    21300188: Unit_Infantry_Red_94
+    21300190: Unit_Infantry_Red_95
+    21300192: Unit_Infantry_Red_96
+    21300194: Unit_Infantry_Red_97
+    21300196: Unit_Infantry_Red_98
+    21300198: Unit_Infantry_Red_99
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfantryIdle1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: InfantryIdle2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: InfantryIdle3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: InfantryIdle4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1084.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1084.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1084.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1084.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1084.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1084.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 983
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 964.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 964.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 964.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 964.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 964.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_17
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 964.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_18
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 964.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_19
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 964.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_27
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_28
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_29
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 844.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_35
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_37
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_38
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_39
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 724.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_45
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_46
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_47
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_48
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_49
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 604.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_53
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_54
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_55
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_56
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_58
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_59
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 484.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_62
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_64
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_65
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_66
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_67
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_68
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_69
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 364.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_73
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_74
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_75
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_76
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_77
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_78
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_79
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 244.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_82
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_83
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_84
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_85
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_86
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_87
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_88
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_89
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 124.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_91
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_92
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_93
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_94
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_95
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_96
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_97
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_98
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit_Infantry_Red_99
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 4.5
+        width: 95.2
+        height: 120.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

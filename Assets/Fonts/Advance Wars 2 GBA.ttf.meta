@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bc2f3e73b1bc7dc47ac173eb0d648b8a
+timeCreated: 1522260135
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Advance Wars 2 GBA
+  fontNames:
+  - Advance Wars 2 GBA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

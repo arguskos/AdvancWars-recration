@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09901c408a71e6d41a64e58615cda3f0, type: 3}
+  m_Name: IconsReference
+  m_EditorClassIdentifier: 
+  HeartIcon: {fileID: 21300134, guid: 9887154aa1d0cdc4ca8756bafc4d4520, type: 3}
+  SupplyIcon: {fileID: 21300136, guid: 9887154aa1d0cdc4ca8756bafc4d4520, type: 3}
+  DefIcon: {fileID: 21300000, guid: b63dd5703d35d0a4d89f231ac52b0ef4, type: 3}
+  AmmoIcon: {fileID: 21300146, guid: 9887154aa1d0cdc4ca8756bafc4d4520, type: 3}
+  CapIcon: {fileID: 21300000, guid: 0a6143e98c8ef2443a764ea347a43089, type: 3}

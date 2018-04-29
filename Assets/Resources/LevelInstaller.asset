@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 056770e06c4cd644083b865c9203bb63, type: 3}
+  m_Name: LevelInstaller
+  m_EditorClassIdentifier: 
+  GameInstaller:
+    Highlighter: {fileID: 1082993400115644, guid: 6293a534616475549a856276203edbce,
+      type: 2}
+    ActionMenuItermPrefab: {fileID: 1481625931732978, guid: 7e295df475821464bab95c30b17e7921,
+      type: 2}
+    Infantry: {fileID: 1403826368373604, guid: fa63d1495dab72d42bc28f81899d718f, type: 2}
+    Menu: {fileID: 1930721950521866, guid: ad1f39d1d3adc774d8f9a2e1428e65bc, type: 2}
+    PathSection: {fileID: 1079553639773824, guid: f4a105b0c940cb94385d5ca689c57480,
+      type: 2}
+    Icons:
+    - {fileID: 21300098, guid: 9887154aa1d0cdc4ca8756bafc4d4520, type: 3}
+    - {fileID: 21300078, guid: 9887154aa1d0cdc4ca8756bafc4d4520, type: 3}
+    - {fileID: 21300114, guid: 9887154aa1d0cdc4ca8756bafc4d4520, type: 3}
+    - {fileID: 21300162, guid: 9887154aa1d0cdc4ca8756bafc4d4520, type: 3}
+    - {fileID: 21300128, guid: 9887154aa1d0cdc4ca8756bafc4d4520, type: 3}
+    - {fileID: 21300002, guid: 9887154aa1d0cdc4ca8756bafc4d4520, type: 3}
+    Numbers:
+    - {fileID: 21300000, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    - {fileID: 21300002, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    - {fileID: 21300004, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    - {fileID: 21300006, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    - {fileID: 21300008, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    - {fileID: 21300010, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    - {fileID: 21300012, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    - {fileID: 21300014, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    - {fileID: 21300016, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    - {fileID: 21300018, guid: 1912e25342fcd154486ef09353a6d884, type: 3}
+    SmallUIText: {fileID: 114122777786455140, guid: 287de0e04f502cc479eaa1bcb037787c,
+      type: 2}
+    MainUIText: {fileID: 114930188070088512, guid: 64958aca370433b4b81b4500c41960ef,
+      type: 2}
+    TileInfoFieldUI: {fileID: 114157844127341356, guid: d5348fa9dc821ec4ebc0dc0de1039629,
+      type: 2}
+    TileInfoGroupUI: {fileID: 114304909150513494, guid: 5124b4c68043f3e45bf7fbe923e1da6a,
+      type: 2}
+    InfantryPrefab: {fileID: 114754419335749908, guid: fa63d1495dab72d42bc28f81899d718f,
+      type: 2}
+  UnitInstaller:
+    Health: {fileID: 1021930231116942, guid: fbf28c28f94576b429e690053f3d87c9, type: 2}
+  Infantry:
+    DamageableSettings:
+      MaxSettings: 10
+    SupplySettings:
+      MaxSupply: 99
+    WalkSettings:
+      Range: 3
+      MovemntType: 1
+    FireSettings:
+      Range: 5
+      Ammo: 10
+      Type: Infantry
+      DamageToBaseUnitType:
+      - Name: Infantry
+        BaseDamage: 50
+      - Name: SmallTank
+        BaseDamage: 35
+  SmallTank:
+    DamageableSettings:
+      MaxSettings: 10
+    SupplySettings:
+      MaxSupply: 99
+    WalkSettings:
+      Range: 4
+      MovemntType: 4
+    FireSettings:
+      Range: 2
+      Ammo: 10
+      Type: SmallTank
+      DamageToBaseUnitType:
+      - Name: Infantry
+        BaseDamage: 80
+      - Name: SmallTank
+        BaseDamage: 50
+  IconsReference: {fileID: 11400000, guid: f839ddd3eaed93e4e90fabf2bc4debea, type: 2}
